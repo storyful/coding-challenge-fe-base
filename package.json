@@ -1,0 +1,19 @@
+{
+  "name": "coding-challenge-fe-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storyful/coding-challenge-fe-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storyful/coding-challenge-fe-base/issues"
+  },
+  "homepage": "https://github.com/storyful/coding-challenge-fe-base#readme"
+}
