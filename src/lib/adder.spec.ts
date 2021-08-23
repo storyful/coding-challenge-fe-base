@@ -5,10 +5,6 @@ describe("Adder", () => {
     expect(adder(1, 2)).toBe(3)
   })
 
-  test("Should not add three numbers together", () => {
-    expect(adder(1, 2, 3)).toBe(3)
-  })
-
   test("Should add negative and positive numbers together", () => {
     expect(adder(-1, 5)).toBe(4)
   })
